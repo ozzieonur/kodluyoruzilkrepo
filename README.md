@@ -28,3 +28,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+[Onur Özbay Patika Link](https://app.patika.dev/ozzieonur)
